@@ -15,7 +15,7 @@ Currently diving deep into **Cybersecurity** and **Software Engineering**, I spe
 ## 🧠 About Me
 
 - 🧑‍🎓 Cybersecurity & Software Engineering Student  
-- 🛡️ Obsessed with **network security**, **web exploitation**, and **ethical hacking**
+- 🛡️ Obsessed with **network security**, **web exploitation**, and **hacking**
 - 📺 Always learning — YouTube is my second university
 - 🐍 Python enthusiast (with a little love for chaos)
 - 🌿 A tech guy who loves nature  
