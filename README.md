@@ -36,7 +36,7 @@ A simple encrypted chat using socket programming. Experimental and for fun, but 
 ## 📡 Connect with me
 
 <p>
-  <a href="mailto:damclover@proton.me"><img src="https://img.shields.io/badge/Email-damclover@proton.me-8c52ff?style=for-the-badge&logo=protonmail&logoColor=white" /></a><br><a href="mailto:diogodevlou@proton.me"><img src="https://img.shields.io/badge/Email-diogodevlou@proton.me-8c52ff?style=for-the-badge&logo=protonmail&logoColor=white" /></a><br>
+  <a href="mailto:damclover@proton.me"><img src="https://img.shields.io/badge/Email-damclover@proton.me-8c52ff?style=for-the-badge&logo=protonmail&logoColor=white" /></a><br>
   <a href="https://www.instagram.com/dc.damclover" target="_blank"><img src="https://img.shields.io/badge/Instagram-DC.DamClover-6a0dad?style=for-the-badge&logo=instagram&logoColor=white" /></a><br>
   <a href="https://x.com/dc0xdamclover" target="_blank"><img src="https://img.shields.io/badge/X-dc0xdamclover-0d1117?style=for-the-badge&logo=twitter&logoColor=white" /></a><br>
 </p>
